@@ -18,28 +18,25 @@ Applied Pandas for data wrangling and analysis
 
 📂 Dataset
 
-Dataset Source: Anime.csv Dataset 
+1. Dataset Source: Anime.csv Dataset 
 
-Contains information like:
+2. Contains information like:
 
-Anime Title
+3. Anime Title
 
-Genre(s)
+4. Genre(s)
 
-Type (TV, Movie, OVA, etc.)
+5. Type (TV, Movie, OVA, etc.)
 
-Rating
+6. Rating
 
 🛠️ Tech Stack
 
-Python 3.x
+1. Python 3.x
 
-NumPy
+2. NumPy
 
-Pandas
+3. Pandas
 
-
-
-Number of Episodes
 
 Popularity
