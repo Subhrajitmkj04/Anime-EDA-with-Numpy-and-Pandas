@@ -29,6 +29,8 @@ Applied Pandas for data wrangling and analysis
 5. Type (TV, Movie, OVA, etc.)
 
 6. Rating
+   
+7. Popularity 
 
 🛠️ Tech Stack
 
@@ -39,4 +41,4 @@ Applied Pandas for data wrangling and analysis
 3. Pandas
 
 
-Popularity
+
